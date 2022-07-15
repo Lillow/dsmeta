@@ -19,7 +19,6 @@ public class SaleController {
 	@Autowired
 	private SaleService service;
 	
-
 	@GetMapping
 	public Page<Sale> findSales(
 			@RequestParam(value = "minDate", defaultValue = "") String minDate, 
