@@ -1,26 +1,27 @@
 <h1 align="center">DSMeta</h1>
 
+# Tabela de conteúdos
 
-Tabela de conteúdos
-=================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Status do projeto](#status-do-projeto)
-   * [Demonstração da aplicação](#Demonstração-da-aplicação)
-   * [Como usar](#como-usar)
-   * [Tecnologias](#tecnologias)
+
+- [Sobre](#Sobre)
+- [Status do projeto](#status-do-projeto)
+- [Demonstração da aplicação](#Demonstração-da-aplicação)
+- [Como usar](#como-usar)
+- [Tecnologias](#tecnologias)
 <!--te-->
 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido durante a Semana Spring React 9 da DevSuperior em que foi criada uma aplicação de listagem de vendas e envio de notificações.</p>
+<p>Projeto desenvolvido durante a Semana Spring React 9 da DevSuperior onde foi criada uma aplicação de listagem de vendas e envio de notificações.</p>
 
 <h2>Status do projeto</h2>
 Concluido.
 
 <h2>Demonstração da aplicação</h2>
 
+  <img alt="home image" src="./frontend/public/home.png">
 
-
+  <img alt="send SMS" src="./frontend/public/send-sms.png">
 
 <h2>Como usar</h2>
 <p>Clique no link: <a href="https://dsmeta-lillow.netlify.app">DSMeta</a>, escolha o périodo de vendas em que quer visualizar clicando nos campos de datas e clique no ícone para enviar uma notificação da venda/vendedor escolhido.</p>
