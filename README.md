@@ -3,12 +3,13 @@
 # Tabela de conteúdos
 
 <!--ts-->
-
-- [Sobre](#Sobre)
-- [Status do projeto](#status-do-projeto)
-- [Demonstração da aplicação](#Demonstração-da-aplicação)
-- [Como usar](#como-usar)
-- [Tecnologias](#tecnologias)
+   * [Sobre](#sobre)
+   * [Status do projeto](#status-do-projeto)
+   * [Demonstração da aplicação](#demonstração-da-aplicação)
+        * [Aplicação](#aplicação)
+        * [Envio de Notificação](#envio-de-notificação) 
+   * [Como usar](#como-usar)
+   * [Tecnologias](#tecnologias)
 <!--te-->
 
 <h2>Sobre</h2>
@@ -19,10 +20,14 @@ Concluido.
 
 <h2>Demonstração da aplicação</h2>
 
-  <img alt="home image" src="./frontend/public/home.png">
+<h3>Aplicação</h3>
 
-  <img alt="send SMS" src="./frontend/public/send-sms.png">
+  ![image](https://user-images.githubusercontent.com/33943534/179431060-6e672613-d258-4633-a212-69e6f6a99328.png)
 
+<h3>Envio de Notificação</h3>
+
+  ![image](https://user-images.githubusercontent.com/33943534/179431100-05d00344-9e8d-4cb1-8de1-6f29b7f20ec5.png)
+    
 <h2>Como usar</h2>
 <p>Clique no link: <a href="https://dsmeta-lillow.netlify.app">DSMeta</a>, escolha o périodo de vendas em que quer visualizar clicando nos campos de datas e clique no ícone para enviar uma notificação da venda/vendedor escolhido.</p>
 
